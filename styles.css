@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+#category {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    color: #565959
+}
+.main-img {
+    width: 350px;
+    height: 500px;
+    margin-top: 50px;
+    box-shadow: 0px 2px 5px lightgray;
+}
+.container {
+    display: flex;
+}
+#ratings {
+    width: 120px;
+}
+#colorlink {
+    color: #007185;
+}
+.meta-data{
+    display: block;
+    margin-left: 20px;
+    
+}
+.title {
+    font-weight: lighter;
+    font-style: bold;
+}
+.paragraph {
+    width: 200px;
+}
+#sub-title {
+    font-weight: bold;
+}
